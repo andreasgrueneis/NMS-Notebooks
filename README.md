@@ -12,6 +12,11 @@
 
 ![Nichtlineares System mit Euler-Verfahren](./images/Nonlinear_Euler.png)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreasgrueneis/NMS-Notebooks/blob/main/notebooks/Euler_coupled_system.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreasgrueneis/NMS-Notebooks/HEAD?labpath=notebooks%2FEuler_coupled_system.ipynb)
+
+
+
 ## Split-Operator-Methode für zeitabhängige Schrödingergleichung
 
 ![Dynamik eines Gaußschen Wellenpakets mit Barriere](./images/TD-SG-BARRIERE.png)
