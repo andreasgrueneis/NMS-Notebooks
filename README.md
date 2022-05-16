@@ -25,3 +25,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreasgrueneis/NMS-Notebooks/HEAD?labpath=notebooks%2FTD-Schroedinger-Barriere.ipynb)
 
 
+## Stabilität 
+
+![Euler-Verfahren für harmonischen Oszillator](./images/Oszillator.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreasgrueneis/NMS-Notebooks/blob/main/notebooks/Oszillator.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreasgrueneis/NMS-Notebooks/HEAD?labpath=notebooks%2FOszillator.ipynb)
+
